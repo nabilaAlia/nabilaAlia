@@ -3,6 +3,7 @@
 I'm Network Engineering Graduate. Currently I am learning Google IT Automation with Python 👩‍💻
 
 ## 🗝️ **Technical Skills**
+https://img.shields.io/badge/:badgeContent
 
 
 
