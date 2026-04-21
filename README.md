@@ -1,40 +1,20 @@
 ### Hi I'm Nabila 👋 👋
+**Network Engineering Graduate | Aspiring IT Operations & Security Engineer**
 
-I'm Network Engineering Graduate. Currently I am learning Google IT Automation with Python 👩‍💻
+I specialize in building and securing robust network infrastructures. I enjoy bridging the gap between hardware connectivity and automated system administration.
 
-## 🗝️ **Technical Skills**
+## 🛠️ **Technical Toolkit**
 
-### System Administration
-- Linux (Ubuntu), Windows OS
-- OS Installation & Patching
-- Server Connectivity Testing
-- User Account & Access Management
+* Networking: TCP/IP, DNS, DHCP, Routing & Switching
+* Systems: Linux (Ubuntu), Windows Server, Proxmox Virtualization
+* Security: Wazuh SIEM, Vulnerability Monitoring, OS Patching
+* Automation: Python, Bash Scripting, Puppet
 
-### Virtualization & Infrastructure
-- Proxmox Virtualization
-- Infrastructure Troubleshooting
-- Enterprise Email Migration Support
-- Network & Service Stability Monitoring
+### 🚀 **Currently Exploring**
+✅ Completed: Google IT Automation with Python
+⚡ Learning: Microsoft Azure Fundamentals & Apple IT Support
+🔭 Focusing on: Scaling secure network deployments and IT Support optimization.
 
-### Networking
-- TCP/IP, DNS, DHCP
-- Basic Routing & Switching
-- Network Configuration & Troubleshooting
-
-### Security & Monitoring
-- Wazuh SIEM Deployment & Monitoring
-- SCAP Scanning
-- CIS Benchmark Hardening
-- ISO/IEC 27001:2022 Compliance Support
-- Infrastructure Risk Assessment
-
-### Automation & Scripting
-- Python (Automation)
-- Bash
-- PowerShell (Basic)
-- Git & GitHub
-
-
-
-📫 Connect with me:
-- LinkedIn: https://www.linkedin.com/in/nabilaaliabthazman/
+📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/nabilaaliabthaz)
+- Email: nabilaaliahazman@gmail.com
