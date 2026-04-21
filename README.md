@@ -11,9 +11,9 @@ I specialize in building and securing robust network infrastructures. I enjoy br
 * Automation: Python, Bash Scripting, Puppet
 
 ### 🚀 **Currently Exploring**
-✅ Completed: Google IT Automation with Python
-⚡ Learning: Microsoft Azure Fundamentals & Apple IT Support
-🔭 Focusing on: Scaling secure network deployments and IT Support optimization.
+* ✅ Completed: Google IT Automation with Python
+* ⚡ Learning: Microsoft Azure Fundamentals & Apple IT Support
+* 🔭 Focusing on: Scaling secure network deployments and IT Support optimization.
 
 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/nabilaaliabthaz)
