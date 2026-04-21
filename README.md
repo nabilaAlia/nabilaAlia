@@ -16,5 +16,5 @@ I specialize in building and securing robust network infrastructures. I enjoy br
 * 🔭 Focusing on: Scaling secure network deployments and IT Support optimization.
 
 📫 Let's Connect!
-- [LinkedIn Nabila Alia]((https://www.linkedin.com/in/nabilaaliabthazman/))
+- [LinkedIn Nabila Alia](https://www.linkedin.com/in/nabilaaliabthazman/)
 - Email: nabilaaliahazman@gmail.com
